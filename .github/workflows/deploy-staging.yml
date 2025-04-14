@@ -7,8 +7,8 @@ on:
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
-  DOCKER_IMAGE_NAME: sandeep-hulyalkar-azure-ttt
-  AZURE_WEBAPP_NAME: sandeep-hulyalkar-ttt-app
+  DOCKER_IMAGE_NAME: sandeep123-azure-ttt
+  AZURE_WEBAPP_NAME: sandeep123-ttt-app
 
 jobs:
   build:
